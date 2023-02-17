@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+/*font-family: 'Poppins', sans-serif;*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+.contact
+{
+ position: relative;
+ min-height: 100vh;
+ padding: 50px 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction:column;
+ background: url(/images/noman5.jpg);
+ background-size: cover;
+}
+.contact .content
+{
+    max-width: 800px;
+    text-align: center;
+}
+.contact .content h2
+{
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(234, 242, 242);
+}
+.contact .content p
+{
+    font-weight: 300;
+    color: antiquewhite;
+}
