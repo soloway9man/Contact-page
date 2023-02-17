@@ -17,7 +17,7 @@
  justify-content: center;
  align-items: center;
  flex-direction:column;
- background: url(/images/noman5.jpg);
+ background: url(noman5.jpg);
  background-size: cover;
 }
 .contact .content
